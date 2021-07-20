@@ -19,7 +19,11 @@
   Node.js
 
   ## Usage
+  Showing all User and Thought routes:   
+  https://drive.google.com/file/d/1mydhucQIHnuq6I3VRGYu8GsSrVeHTVaY/view   
   
+  Showing reactions and Friends:   
+  https://drive.google.com/file/d/1F39eoLNPbzstXIr0AjCDKi-bFuOdyGjB/view
 
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
